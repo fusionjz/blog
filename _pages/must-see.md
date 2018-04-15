@@ -1,5 +1,5 @@
 ---
-title: "Must See"
+title: "Must-See"
 permalink: /must-see/
 layout: posts
 author_profile: true
