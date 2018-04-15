@@ -2,11 +2,13 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://fusionjz.github.io/online-cv/
-  - title: "Sample Posts"
+  - title: "Posts by Year"
     url: /year-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  - title: "Must See"
+    url: /must-see/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Online CV"
+    url: https://fusionjz.github.io/online-cv/
   - title: "Ref"
     url: https://mmistakes.github.io/minimal-mistakes/about/

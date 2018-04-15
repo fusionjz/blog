@@ -2,7 +2,8 @@
 title: test for various format
 toc: true
 header:
-   image: /assets/images/background_001.jpg
+   image: /assets/images/banner_002.jpg
+   image_description: "A description of the image"
 ---
 
 ### GitHub
@@ -36,7 +37,7 @@ gem "github-pages", group: :jekyll_plugins
 You can further refer to more information from link... :smiley:
 
 YouTube
-{% include video id="XsxDH4HcOWA" provider="youtube" %}
+{% include video id="Tpt1GlN6gKI" provider="youtube" %}
 
 Vimeo
 {% include video id="212731897" provider="vimeo" %}
