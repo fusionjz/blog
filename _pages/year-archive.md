@@ -1,11 +1,10 @@
 ---
 title: "Posts by Year"
-permalink: /year-archive/
+permalink: /archive/
 layout: posts
 author_profile: true
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: rgba(0, 0, 0, 0.3)
   overlay_image: /assets/images/banner_003.jpg
-excerpt: "This page is under construction. My personal project and work will be displayed here."
+excerpt: "This page is under construction."
 ---
