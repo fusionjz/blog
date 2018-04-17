@@ -1,12 +1,11 @@
 ---
-title: A various of common markup example
+title: "A various of common markup example"
 toc: true
 header:
-   image: /assets/images/banner_002.jpg
-   image_description: "A description of the image"
+  overlay_filter: rgba(0, 0, 0, 0.3)
+  overlay_image: /assets/images/banner_002.jpg
+excerpt: "A variety of common markup showing how the theme styles them."
 ---
-
-A variety of common markup showing how the theme styles them.
 
 # Header one
 
