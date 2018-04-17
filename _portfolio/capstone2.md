@@ -1,9 +1,9 @@
 ---
-title: "Ginger Gulp Identity"
-excerpt: "Ginger Gulp design system including logo mark, website design, and branding applications."
+title: "Capstone Project II"
+excerpt: "Capstone Project involves everything about embedded system h/w and s/w design."
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
-  teaser: assets/images/unsplash-gallery-image-3-th.jpg
+  image: /assets/images/unsplash-gallery-image-2.jpg
+  teaser: assets/images/unsplash-gallery-image-2-th.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
